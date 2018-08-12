@@ -1,9 +1,14 @@
 {
-   "Name":"VIGNESH <br />SANKAR",
+   "Name":"VIGNESH \n SANKAR",
    "Designation":"Senior Devolper",
    "PhoneNumber":"+91 78453 56457",
    "Email":"sankarvignesh.s@gmail.com",
    "Website":"crazyorogramer.firebaseapp.com",
+   "Father":"S.Sankar",
+   "Gender":"Male",
+   "DOB":"24 Aug 1992",
+   "Address":"3/301 Perumal koil street,\nChinnamathur, Manali,\nChennai-600 068",
+   "Language":"English, Tamil",
    "ShortSummary":"To pursue a challenging career in software field in a company that would give an opportunity to exhibit my forte",
    "ProfessionalSummary":[
       "3+ years of experience in IT Industry basically involved more in software design & development of applications using C#, MVC 5, WEB API, ADO.NET, SQL Server 2012, basic in WPF and Angular 5.0.",
@@ -78,7 +83,7 @@
    ],
    "Project":[
       {
-         "Designation":"Senior Software Developer",
+         "Designation":"Senior Developer",
          "Year":"MAR 2015 - Present",
          "Company":"MSC Technology (India) Private Limited",
          "Projects":[
@@ -96,7 +101,7 @@
                "Methodology":"Water Fall",
                "Database":"Oracle"
             },
-	    {
+            {
                "Title":"Create nuget package (dll) and MVC or WPF sample",
                "Role":"Create a wrapper , nuget package and sample project using nuget.",
                "Description":"This project is dynamic link library and creating wrapper class for some of the thirty party controls. We are creating nuget package for the common functionality like dataaccess layer, locking, security and also create the sample project for each nugetpackage. This nugetpackages are used to different project and it simplify the otherdeveloper works.",
@@ -109,6 +114,41 @@
                "TeamSize":"5",
                "Methodology":"Water Fall",
                "Database":"Oracle"
+            },
+            {
+               "Title":"Create nuget package (dll) and MVC or WPF sample",
+               "Role":"Create a wrapper , nuget package and sample project using nuget.",
+               "Description":"This project is dynamic link library and creating wrapper class for some of the thirty party controls. We are creating nuget package for the common functionality like dataaccess layer, locking, security and also create the sample project for each nugetpackage. This nugetpackages are used to different project and it simplify the otherdeveloper works.",
+               "Responsibilities":[
+                  "Create Sample Project  in MVC or WPF.",
+                  "Create common wrapper and inter-linking nugets.",
+                  "Prepare Document for Nuget package."
+               ],
+               "Technologies":"C#, MVC 5, WPF",
+               "TeamSize":"5",
+               "Methodology":"Water Fall",
+               "Database":"Oracle"
+            }
+         ]
+      },
+      {
+         "Designation":"Software Engineer",
+         "Year":"Dec 2013 - Jan 2015",
+         "Company":"Penatvenue",
+         "Projects":[
+            {
+               "Title":"Create nuget package (dll) and MVC or WPF sample",
+               "Role":"Gatherring iforamation, development and testing.",
+               "Description":"This project is dynamic link library and creating wrapper class for some of the thirty party controls. We are creating nuget package for the common functionality like dataaccess layer, locking, security and also create the sample project for each nugetpackage. This nugetpackages are used to different project and it simplify the otherdeveloper works.",
+               "Responsibilities":[
+                  "Create Sample Project  in MVC or WPF.",
+                  "Create common wrapper and inter-linking nugets.",
+                  "Prepare Document for Nuget package."
+               ],
+               "Technologies":"C#, Window Form, WPF",
+               "TeamSize":"1",
+               "Methodology":"",
+               "Database":"SQL SERVER 2008"
             }
          ]
       }

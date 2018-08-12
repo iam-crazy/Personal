@@ -1,0 +1,33 @@
+Responsibilities:
+Develop, test and implement new software programs
+Facilitate root cause analysis of system issues
+Development of technical specifications and plans
+Analyze user requirements and convert requirements to design documents
+Identify ideas to improve system performance and impact availability
+Risk and contingency planning.
+Peer code reviews.
+Interacting with the business team on a daily basis.
+Participating in daily scrum meetings.
+
+
+Implement Agile management ideals by facilitating exercises such as sprint ceremonies and team leading standups and delivery adheres as a Scrum Master
+
+Caching,Repository,ExceptionManagement,Locking,Serialization,Session,Layout,Component
+
+Kendo
+
+
+Master data management (MDM) software tracks the most essential company-wide data points and provides insights related to company operations, clients, and goals for OneVision Product. MDM platforms draw information from multiple domains and departments and singles out the core data that administrators have determined is most relevant to the organization. Users can implement that data as they see fit, keep records of data history, and make projections based on findings.
+
+
+Booking module is all about rectifying the client time consumption by developing product that is used to book paid containers with commodity against parties with best vessel routes.
+
+
+
+HRMS is designed to manage an organization's computerized and automated human resource (HR) processes : The project plan is to implement
+1.Time tracking & Attendance management
+2.Performance evaluation
+3.Recruiting & Applicant tracking.
+4.Analytics & Reporting
+5.Training
+6.Asset Management

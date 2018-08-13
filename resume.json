@@ -112,7 +112,7 @@
                   "Peer code reviews.",
                   "Participating in daily scrum meetings."
                ],
-               "Technologies":"C#, MVC 5, JQuery",
+               "Technologies":"C#, MVC 5, JavaScript/JQuery, Kendo, Kendo MVVM, WebApi, Entity Framework",
                "TeamSize":"5",
                "Methodology":"Agile",
                "Database":"SQLServer"
@@ -133,7 +133,7 @@
                "Database":"Oracle"
             },
             {
-               "Title":"Shipment-Booking,Import",
+               "Title":"Shipment-Booking,Export",
                "Role":"Analyze user requirements and convert requirements to technical design documents and Development of technical specifications and plans.",
                "Description":"Booking module is all about rectifying the client time consumption by developing product that is used to book a paid containers with commodity against parties with best vessel routes.",
                "Responsibilities":[
@@ -142,7 +142,7 @@
                   "Risk and contingency planning",
                   "Peer code reviews.",
                ],
-               "Technologies":"C#, MVC 5, JQuery",
+               "Technologies":"C#, MVC 5, JavaScript/JQuery, Kendo, Kendo MVVM",
                "TeamSize":"5",
                "Methodology":"Water Fall",
                "Database":"Oracle"
@@ -158,7 +158,7 @@
                   "Peer code reviews.",
                   "Participating in daily scrum meetings."
                ],
-               "Technologies":"C#, WPF, XAML",
+               "Technologies":"C#, WPF, XAML, Entity Framework, WebAPI, Telerik RadControl",
                "TeamSize":"5",
                "Methodology":"Agile",
                "Database":"SQLServer"

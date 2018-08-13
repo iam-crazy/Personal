@@ -15,6 +15,7 @@
       "Extensive experience in design and development of applications using .NET(Web and Windows) application development technologiesinn-tierarchitecture.",
       "Extensive workingexperiencein Webtechnologieslike HTML, CSS, JavaScript, JqueryandBootstrap and basic knowledge in Knockout.js and Threejs.",
       "Working experience in Agile Methodology and Waterfall Methodology.",
+      "Implement Agile management ideals by facilitating exercises such as sprint ceremonies and team leading standups and delivery adheres as a Scrum Master"
       "Good experiencewith relational databases SQL Server.",
       "Abilitytolearn&developusingnewtechnologiesquickly.",
       "Expert in project planning, strategic planning, systems analysis and troubleshooting, scheduling and planning, and tracking of results.",
@@ -90,67 +91,80 @@
             {
                "Title":"Create nuget package (dll) and MVC or WPF sample",
                "Role":"Create a wrapper , nuget package and sample project using nuget.",
-               "Description":"This project is dynamic link library and creating wrapper class for some of the thirty party controls. We are creating nuget package for the common functionality like dataaccess layer, locking, security and also create the sample project for each nugetpackage. This nugetpackages are used to different project and it simplify the otherdeveloper works.",
+               "Description":"This project is dynamic link library and creating wrapper class for Telerik-Kendo controls. We are creating nuget package for the common functionality like dataaccess layer, locking, security and also create the sample project for each nugetpackage. This nugetpackages are used to different project and it simplify the otherdeveloper works.",
                "Responsibilities":[
-                  "Create Sample Project  in MVC or WPF.",
-                  "Create common wrapper and inter-linking nugets.",
+                  "Create common wrapper for Caching,Repository,ExceptionManagement,Locking,Serialization,Session,Layout,etc and inter-linking nugets.",
+                  "Create Sample Project  in MVC or WPF for trainee.",
                   "Prepare Document for Nuget package."
                ],
-               "Technologies":"C#, MVC 5, WPF",
+               "Technologies":"C#, MVC 5, WPF, JQuery",
+               "TeamSize":"3",
+               "Methodology":"Water Fall",
+               "Database":"Oracle"
+            },
+            {
+               "Title":"HRMS-Human Resource Management Systems",
+               "Role":"Analyze user requirements and convert requirements to technical design documents and Development of technical specifications and plans",
+               "Description":"HRMS is designed to manage an organization's computerized and automated human resource (HR) processes : The project plan development of Time tracking & Attendance management,Performance evaluation,Recruiting & Applicant tracking,Analytics & Reporting,Training Management,Asset Management",
+               "Responsibilities":[
+                  "Development of technical specifications and plans",
+                  "Interacting with the business team on a daily basis.",
+                  "Peer code reviews.",
+                  "Participating in daily scrum meetings."
+               ],
+               "Technologies":"C#, MVC 5, JQuery",
+               "TeamSize":"5",
+               "Methodology":"Agile",
+               "Database":"SQLServer"
+            },
+            {
+               "Title":"MDM-Master data management",
+               "Role":"Analyze user requirements and convert requirements to technical design documents and Development of technical specifications and plans.",
+               "Description":"Master data management (MDM) software tracks the most essential company-wide data points and provides insights related to company operations for OneVision Product.MDM platforms draw information from multiple domains and singles out the core data that administrators have determined is most relevant to the organization.",
+               "Responsibilities":[
+                  "Analyze user requirements and convert requirements as product.",
+                  "Develop, test and implement in product.",
+                  "Risk and contingency planning",
+                  "Peer code reviews.",
+               ],
+               "Technologies":"C#, MVC 5, JQuery",
                "TeamSize":"5",
                "Methodology":"Water Fall",
                "Database":"Oracle"
             },
             {
-               "Title":"Create nuget package (dll) and MVC or WPF sample",
-               "Role":"Create a wrapper , nuget package and sample project using nuget.",
-               "Description":"This project is dynamic link library and creating wrapper class for some of the thirty party controls. We are creating nuget package for the common functionality like dataaccess layer, locking, security and also create the sample project for each nugetpackage. This nugetpackages are used to different project and it simplify the otherdeveloper works.",
+               "Title":"Shipment-Booking,Import",
+               "Role":"Analyze user requirements and convert requirements to technical design documents and Development of technical specifications and plans.",
+               "Description":"Booking module is all about rectifying the client time consumption by developing product that is used to book a paid containers with commodity against parties with best vessel routes.",
                "Responsibilities":[
-                  "Create Sample Project  in MVC or WPF.",
-                  "Create common wrapper and inter-linking nugets.",
-                  "Prepare Document for Nuget package."
+                  "Analyze user requirements and convert requirements as product.",
+                  "Develop, test and implement in product.",
+                  "Risk and contingency planning",
+                  "Peer code reviews.",
                ],
-               "Technologies":"C#, MVC 5, WPF",
+               "Technologies":"C#, MVC 5, JQuery",
                "TeamSize":"5",
                "Methodology":"Water Fall",
                "Database":"Oracle"
-            },
-            {
-               "Title":"Create nuget package (dll) and MVC or WPF sample",
-               "Role":"Create a wrapper , nuget package and sample project using nuget.",
-               "Description":"This project is dynamic link library and creating wrapper class for some of the thirty party controls. We are creating nuget package for the common functionality like dataaccess layer, locking, security and also create the sample project for each nugetpackage. This nugetpackages are used to different project and it simplify the otherdeveloper works.",
+            },            
+             {
+               "Title":"ESR",
+               "Role":"Analyze user requirements and convert requirements to technical design documents and Development of technical specifications and plans.",
+               "Description":"",
                "Responsibilities":[
-                  "Create Sample Project  in MVC or WPF.",
-                  "Create common wrapper and inter-linking nugets.",
-                  "Prepare Document for Nuget package."
+                  "Analyze user requirements and convert requirements as product.",
+                  "Develop, test and implement in product.",
+                  "Risk and contingency planning",
+                  "Peer code reviews.",
+                  "Participating in daily scrum meetings."
                ],
-               "Technologies":"C#, MVC 5, WPF",
+               "Technologies":"C#, WPF, XAML",
                "TeamSize":"5",
-               "Methodology":"Water Fall",
-               "Database":"Oracle"
+               "Methodology":"Agile",
+               "Database":"SQLServer"
             }
          ]
       },
-      {
-         "Designation":"Software Engineer",
-         "Year":"Dec 2013 - Jan 2015",
-         "Company":"Penatvenue",
-         "Projects":[
-            {
-               "Title":"Create nuget package (dll) and MVC or WPF sample",
-               "Role":"Gatherring iforamation, development and testing.",
-               "Description":"This project is dynamic link library and creating wrapper class for some of the thirty party controls. We are creating nuget package for the common functionality like dataaccess layer, locking, security and also create the sample project for each nugetpackage. This nugetpackages are used to different project and it simplify the otherdeveloper works.",
-               "Responsibilities":[
-                  "Create Sample Project  in MVC or WPF.",
-                  "Create common wrapper and inter-linking nugets.",
-                  "Prepare Document for Nuget package."
-               ],
-               "Technologies":"C#, Window Form, WPF",
-               "TeamSize":"1",
-               "Methodology":"",
-               "Database":"SQL SERVER 2008"
-            }
-         ]
-      }
+    
    ]
 }

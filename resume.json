@@ -7,17 +7,17 @@
    "Father":"S.Sankar",
    "Gender":"Male",
    "DOB":"24 Aug 1992",
-   "Address":"3/301 Perumal koil street,\nChinnamathur, Manali,\nChennai-600 068",
+   "Address":"3/301 Perumal koil street, \nChinnamathur, Manali, \nChennai-600 068",
    "Language":"English, Tamil",
    "ShortSummary":"To pursue a challenging career in software field in a company that would give an opportunity to exhibit my forte",
    "ProfessionalSummary":[  
       "3+ years of experience in IT Industry basically involved more in software design & development of applications using C#, MVC 5, WEB API, ADO.NET, SQL Server 2012, basic in WPF and Angular 5.0.",
-      "Extensive experience in design and development of applications using .NET(Web and Windows) application development technologies in n-tierarchitecture.",
-      "Extensive working experience in Webtechnologies like HTML, CSS, JavaScript, Jquery and Bootstrap and basic knowledge in Knockout.js and Threejs.",
+      "Extensive experience in design and development of applications using .NET (Web and Windows) application development technologies in n-tier architecture.",
+      "Extensive working experience in Web technologies like HTML, CSS, JavaScript, Jquery and Bootstrap and basic knowledge in Knockout.js and Threejs.",
       "Working experience in Agile Methodology and Waterfall Methodology.",
-      "Implement Agile management ideals by facilitating exercises such as sprint ceremonies and team leading standups and delivery adheres as a Scrum Master",
-      "Good experiencewith relational databases SQL Server.",
-      "Ability to learn & develop using newtechnologies quickly.",
+      "Implement Agile management ideals by facilitating exercises such as sprint ceremonies and team leading stand ups and delivery adheres as a Scrum Master",
+      "Good experience with relational databases SQL Server.",
+      "Ability to learn & develop using new technologies quickly.",
       "Expert in project planning, strategic planning, systems analysis and troubleshooting, scheduling and planning, and tracking of results.",
       "Proficient in coding and developing the new program.",
       "Managing and supporting multiple Projects.",
@@ -50,7 +50,7 @@
          "Rating":"4"
       },
       {  
-         "Name":"Web Api",
+         "Name":"Web API",
          "Rating":"4"
       },
       {  
@@ -90,11 +90,11 @@
          "Projects":[  
             {  
                "Title":"Create nuget package (dll) and MVC or WPF sample",
-               "Role":"Create a wrapper , nuget package and sample project using nuget.",
-               "Description":"This project is dynamic link library and creating wrapper class for Telerik-Kendo controls. We are creating nuget package for the common functionality like data access layer, locking, security and also create the sample project for each nugetpackage. This nuget packages are used to different project and it simplify the otherdeveloper works.",
+               "Role":"Create a wrapper,  nuget package and sample project using nuget.",
+               "Description":"This project is dynamic link library and creating wrapper class for Telerik-Kendo controls. We are creating nuget package for the common functionality like data access layer, locking, security and also create the sample project for each nugget package. This nuget packages are used to different project and it simplify the other developer works.",
                "Responsibilities":[  
-                  "Create common wrapper for Caching,Repository,ExceptionManagement,Locking,Serialization,Session,Layout,etc and inter-linking nugets.",
-                  "Create Sample Project  in MVC or WPF for trainee.",
+                  "Create common wrapper for Caching, Repository, Exception Management, Locking, Serialization, Session, Layout, etc.. and inter-linking nugets.",
+                  "Create Sample project in MVC or WPF for trainee.",
                   "Prepare Document for Nuget package."
                ],
                "Technologies":"C#, MVC 5, WPF, JQuery",
@@ -105,7 +105,7 @@
             {  
                "Title":"HRMS-Human Resource Management Systems",
                "Role":"Analyze user requirements and convert requirements to technical design documents and Development of technical specifications and plans",
-               "Description":"HRMS is designed to manage an organization's computerized and automated human resource (HR) processes : The project plan development of Time tracking & Attendance management,Performance evaluation,Recruiting & Applicant tracking,Analytics & Reporting,Training Management,Asset Management",
+               "Description":"HRMS is designed to manage an organization's computerized and automated human resource (HR) processes : The project plan development of Time tracking & Attendance management, Performance evaluation, Recruiting & Applicant tracking, Analytics & Reporting, Training Management, Asset Management",
                "Responsibilities":[  
                   "Development of technical specifications and plans",
                   "Interacting with the business team on a daily basis.",
